@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
+# tradingview
+DOMAIN-KEYWORD,tradingview
+DOMAIN-SUFFIX,tradingview.com
