@@ -1,5 +1,10 @@
 # 代理列表
 
+# tradingview
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-KEYWORD,tradingview
+
+
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
